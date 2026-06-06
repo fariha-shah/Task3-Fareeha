@@ -20,7 +20,6 @@ project3/
 ├── db.js               → MongoDB connection
 ├── package.json        → Dependencies
 ├── test.http           → REST Client test file
-├── uploads/            → Uploaded item images
 ├── models/
 │   ├── Item.js         → Item schema (title, category, status, location...)
 │   ├── User.js         → User schema (name, email, password)
